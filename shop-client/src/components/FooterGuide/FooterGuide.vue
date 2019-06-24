@@ -1,42 +1,41 @@
 <template>
-  <footer class="footer_guide">
-    <div class="guide_item" :class="{on: '/home'===$route.path}" @click="goTo('/home')">
+  <div class="footer_guide">
+    <span class="guide_item" :class="{on: '/msite'===$route.path}" @click="goTo('/msite')">
       <span class="item_icon">
         <i class="iconfont icon-waimai"></i>
       </span>
       <span>外卖</span>
-    </div>
-    <div class="guide_item" :class="{on: '/search'===$route.path}" @click="goTo('/search')">
+    </span>
+    <a href="javascript:;" class="guide_item" :class="{on: '/search'===$route.path}" @click="goTo('/search')">
       <span class="item_icon">
-        <i class="iconfont icon-sousuo1"></i>
+        <i class="iconfont icon-search"></i>
       </span>
       <span>搜索</span>
-    </div>
-    <div class="guide_item" :class="{on: '/order'===$route.path}" @click="goTo('/order')">
+    </a>
+    <a href="javascript:;" class="guide_item" :class="{on: '/order'===$route.path}" @click="goTo('/order')">
       <span class="item_icon">
-        <i class="iconfont icon-icon-test"></i>
+        <i class="iconfont icon-dingdan"></i>
       </span>
       <span>订单</span>
-    </div>
-    <div class="guide_item" :class="{on: '/person'===$route.path}" @click="goTo('/person')">
+    </a>
+    <a href="javascript:;" class="guide_item" :class="{on: '/profile'===$route.path}" @click="goTo('/profile')">
       <span class="item_icon">
         <i class="iconfont icon-geren"></i>
       </span>
-      <span>个人</span>
-    </div>
-  </footer>
+      <span>我的</span>
+    </a>
+  </div>
 </template>
 
 <script>
-export default {
-  methods: {
-    goTo(path){
-      this.$router.replace(path)
+  export default {
+    methods: {
+      goTo (path) {
+        this.$router.replace(path)
+      }
     }
-  },
-}
+  }
 </script>
-
 
 <style lang="stylus" rel="stylesheet/stylus">
   @import "../../common/stylus/mixins.styl"
@@ -60,7 +59,7 @@ export default {
       margin 5px
       color #999999
       &.on
-        color #FF5733
+        color #ff5733
       span
         font-size 12px
         margin-top 2px

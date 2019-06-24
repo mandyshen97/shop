@@ -1,0 +1,1820 @@
+[
+  {
+    "name": "嘉禾一品（温都水城）",
+    "address": "北京市昌平区宏福苑温都水城F1",
+    "id": 1,
+    "latitude": 40.10039,
+    "longitude": 116.36868,
+    "location": [
+      116.36868,
+      40.10039
+    ],
+    "phone": "13437850035",
+    "category": "快餐便当/简餐",
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保",
+        "_id": "5a5859a19c2bc57d52df30b3"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达",
+        "_id": "5a5859a19c2bc57d52df30b2"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "_id": "5a5859a19c2bc57d52df30b1"
+      }
+    ],
+    "status": 1,
+    "recent_order_num": 106,
+    "rating_count": 961,
+    "rating": 4.7,
+    "promotion_info": "欢迎光临，用餐高峰请提前下单，谢谢",
+    "piecewise_agent_fee": {
+      "tips": "配送费约¥5"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "license": {
+      "catering_service_license_image": "160e91e17fa2164.png",
+      "business_license_image": "160e91e0a9f2163.png"
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1560593808805&di=165b910aa3454182e74cb5e74d1f0d3e&imgtype=0&src=http%3A%2F%2Fimg.pconline.com.cn%2Fimages%2Fupload%2Fupc%2Ftx%2Fphotoblog%2F1406%2F20%2Fc2%2F35489246_1403250875219_mthumb.jpg",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 5,
+    "distance": "2120.1公里",
+    "order_lead_time": "31小时24分钟",
+    "description": "sad",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "Mandy专送"
+    },
+    "activities": [],
+    "__v": 0
+  },
+  {
+    "name": "闪电哥哥ghj慰问费22",
+    "address": "河南省郑州市蜀山区南二环路天鹅湖万达广场8号楼1705室",
+    "id": 479,
+    "latitude": 31.81948,
+    "longitude": 117.22124,
+    "location": [
+      93.50611,
+      42.84974
+    ],
+    "phone": "122343adsa",
+    "category": "异国料理",
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保",
+        "_id": "5a66f45c76d92175ac4464dd"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达",
+        "_id": "5a66f45c76d92175ac4464dc"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "_id": "5a66f45c76d92175ac4464db"
+      }
+    ],
+    "status": 1,
+    "recent_order_num": 755,
+    "rating_count": 167,
+    "rating": 4.2,
+    "promotion_info": "欢迎光临，用餐高峰请提前下单，谢谢",
+    "piecewise_agent_fee": {
+      "tips": "配送费约¥5"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "license": {
+      "catering_service_license_image": "",
+      "business_license_image": ""
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "http://img1.imgtn.bdimg.com/it/u=364055337,609376702&fm=26&gp=0.jpg",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 5,
+    "distance": "1010.3公里",
+    "order_lead_time": "21小时7分钟",
+    "description": "描述性内容1",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "Mandy专送"
+    },
+    "activities": [
+      {
+        "icon_name": "减",
+        "name": "满减优惠",
+        "description": "满30减5，满60减8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5a66f45c76d92175ac4464de"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "苏州嘻哈包袱铺",
+    "address": "江苏省苏州市吴中区吴东路中文基广场(姜家桥公交站南)",
+    "id": 485,
+    "latitude": 31.26578,
+    "longitude": 120.65355,
+    "location": [
+      120.65355,
+      31.26578
+    ],
+    "phone": "12345678901",
+    "category": "商店超市/名酒坊",
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保",
+        "_id": "5a6830b41d632b05464db9d1"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达",
+        "_id": "5a6830b41d632b05464db9d0"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "_id": "5a6830b41d632b05464db9cf"
+      }
+    ],
+    "status": 1,
+    "recent_order_num": 58,
+    "rating_count": 576,
+    "rating": 4.6,
+    "promotion_info": "欢迎光临，用餐高峰请提前下单，谢谢",
+    "piecewise_agent_fee": {
+      "tips": "配送费约¥5"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "license": {
+      "catering_service_license_image": "16126fe59b83261.jpg",
+      "business_license_image": "16126fe55013260.jpg"
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "http://img0.imgtn.bdimg.com/it/u=3768157203,2446314385&fm=26&gp=0.jpg",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 5,
+    "distance": "1167.4公里",
+    "order_lead_time": "19小时1分钟",
+    "description": "",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "Mandy专送"
+    },
+    "activities": [
+      {
+        "icon_name": "减",
+        "name": "满减优惠",
+        "description": "满30减5，满60减8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5a6830b41d632b05464db9d2"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "大树旗舰店2112",
+    "address": "广东省广州市天河区东圃镇汇彩路38号1领汇创展商务中心401",
+    "id": 486,
+    "latitude": 23.1127,
+    "longitude": 113.41724,
+    "location": [
+      113.41724,
+      23.1127
+    ],
+    "phone": "13544323775",
+    "category": "快餐便当",
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保",
+        "_id": "5a6863641d632b05464dbaea"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达",
+        "_id": "5a6863641d632b05464dbae9"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "_id": "5a6863641d632b05464dbae8"
+      }
+    ],
+    "status": 1,
+    "recent_order_num": 542,
+    "rating_count": 372,
+    "rating": 4.2,
+    "promotion_info": "大树旗舰店标语",
+    "piecewise_agent_fee": {
+      "tips": "配送费约¥5"
+    },
+    "opening_hours": [
+      "09:00/21:30"
+    ],
+    "license": {
+      "catering_service_license_image": "16127c429983306.jpg",
+      "business_license_image": "16127c423ae3305.jpg"
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "http://img4.imgtn.bdimg.com/it/u=607745733,2963223535&fm=26&gp=0.jpg",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 5,
+    "distance": "2128.8公里",
+    "order_lead_time": "32小时14分钟",
+    "description": "大树旗舰店大树旗舰店大树旗舰店简介",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "Mandy专送"
+    },
+    "activities": [
+      {
+        "icon_name": "减",
+        "name": "满减优惠",
+        "description": "满30减5，满60减8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5a6863641d632b05464dbaeb"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "广州酒家",
+    "address": "广东省广州市荔湾区上下九商业步行街内",
+    "id": 487,
+    "latitude": 23.11488,
+    "longitude": 113.24826,
+    "location": [
+      113.24826,
+      23.11488
+    ],
+    "phone": "750",
+    "category": "果蔬生鲜/海鲜水产",
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保",
+        "_id": "5a687a781d632b05464dbb35"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达",
+        "_id": "5a687a781d632b05464dbb34"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "_id": "5a687a781d632b05464dbb33"
+      }
+    ],
+    "status": 0,
+    "recent_order_num": 923,
+    "rating_count": 871,
+    "rating": 4.2,
+    "promotion_info": "广州第一家",
+    "piecewise_agent_fee": {
+      "tips": "配送费约¥5"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "license": {
+      "catering_service_license_image": "161281e6ef33314.png",
+      "business_license_image": "161281e4a723313.jpg"
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "http://img5.imgtn.bdimg.com/it/u=4172134961,2059358242&fm=26&gp=0.jpg",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 5,
+    "distance": "2123公里",
+    "order_lead_time": "31小时26分钟",
+    "description": "喝早茶好去处",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "Mandy专送"
+    },
+    "activities": [
+      {
+        "icon_name": "减",
+        "name": "满减优惠",
+        "description": "满30减5，满60减8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5a687a781d632b05464dbb36"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "闪电老司机",
+    "address": "广东省广州市越秀区德政中路171",
+    "id": 488,
+    "latitude": 23.12092,
+    "longitude": 113.27521,
+    "location": [
+      113.27521,
+      23.12092
+    ],
+    "phone": "2",
+    "category": "果蔬生鲜",
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保",
+        "_id": "5a687c8d1d632b05464dbb60"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达",
+        "_id": "5a687c8d1d632b05464dbb5f"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "_id": "5a687c8d1d632b05464dbb5e"
+      }
+    ],
+    "status": 1,
+    "recent_order_num": 483,
+    "rating_count": 273,
+    "rating": 4.2,
+    "promotion_info": "4",
+    "piecewise_agent_fee": {
+      "tips": "配送费约¥5"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "license": {
+      "catering_service_license_image": "",
+      "business_license_image": ""
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "http://img0.imgtn.bdimg.com/it/u=3418585346,4241072516&fm=26&gp=0.jpg",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 5,
+    "distance": "2121.6公里",
+    "order_lead_time": "31小时26分钟",
+    "description": "3",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "Mandy专送"
+    },
+    "activities": [
+      {
+        "icon_name": "减",
+        "name": "满减优惠",
+        "description": "满30减5，满60减8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5a687c8d1d632b05464dbb61"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "123",
+    "address": "辽宁省大连市金州区 ",
+    "id": 491,
+    "latitude": 39.17791,
+    "longitude": 122.05169,
+    "location": [
+      122.05169,
+      39.17791
+    ],
+    "phone": "12345678",
+    "category": "快餐便当/包子粥店",
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保",
+        "_id": "5a696b071d632b05464dbd31"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达",
+        "_id": "5a696b071d632b05464dbd30"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "_id": "5a696b071d632b05464dbd2f"
+      }
+    ],
+    "status": 1,
+    "recent_order_num": 49,
+    "rating_count": 447,
+    "rating": 4.7,
+    "promotion_info": "欢迎光临，用餐高峰请提前下单，谢谢",
+    "piecewise_agent_fee": {
+      "tips": "配送费约¥5"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "license": {
+      "catering_service_license_image": "",
+      "business_license_image": ""
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "http://img5.imgtn.bdimg.com/it/u=331919050,343116535&fm=26&gp=0.jpg",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 5,
+    "distance": "797.7公里",
+    "order_lead_time": "15小时48分钟",
+    "description": "",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "Mandy专送"
+    },
+    "activities": [
+      {
+        "icon_name": "减",
+        "name": "满减优惠",
+        "description": "满30减5，满60减8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5a696b071d632b05464dbd32"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "川菜馆111111111",
+    "address": "广东省深圳市宝安区留仙二路59",
+    "id": 496,
+    "latitude": 22.58295,
+    "longitude": 113.91455,
+    "location": [
+      113.91455,
+      22.58295
+    ],
+    "phone": "133333",
+    "category": "快餐便当/简餐",
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保",
+        "_id": "5a69880a1d632b05464dbe66"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达",
+        "_id": "5a69880a1d632b05464dbe65"
+      }
+    ],
+    "status": 0,
+    "recent_order_num": 68,
+    "rating_count": 919,
+    "rating": 4.1,
+    "promotion_info": "情侣吃饭，免茶位费",
+    "piecewise_agent_fee": {
+      "tips": "配送费约¥5"
+    },
+    "opening_hours": [
+      "10:00/23:00"
+    ],
+    "license": {
+      "catering_service_license_image": "",
+      "business_license_image": ""
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "data:image/jpeg;base64,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",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 50,
+    "float_delivery_fee": 5,
+    "distance": "2167.4公里",
+    "order_lead_time": "35小时3分钟",
+    "description": "正宗川菜",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "Mandy专送"
+    },
+    "activities": [
+      {
+        "icon_name": "减",
+        "name": "满减优惠",
+        "description": "满30减5，满60减8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5a69880a1d632b05464dbe68"
+      },
+      {
+        "icon_name": "特",
+        "name": "优惠大酬宾",
+        "description": "情侣吃饭，免茶位费",
+        "icon_color": "EDC123",
+        "id": 2,
+        "_id": "5a69880a1d632b05464dbe67"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "1313",
+    "address": "北京市通州区潞苑南大街运通花园1313号楼",
+    "id": 499,
+    "latitude": 39.9256,
+    "longitude": 116.6773,
+    "location": [
+      116.6773,
+      39.9256
+    ],
+    "phone": "13641266693",
+    "category": "快餐便当/简餐",
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保",
+        "_id": "5a6acb3e1d632b05464dc4a0"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达",
+        "_id": "5a6acb3e1d632b05464dc49f"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "_id": "5a6acb3e1d632b05464dc49e"
+      }
+    ],
+    "status": 0,
+    "recent_order_num": 597,
+    "rating_count": 593,
+    "rating": 4.8,
+    "promotion_info": "13213213",
+    "piecewise_agent_fee": {
+      "tips": "配送费约¥5"
+    },
+    "opening_hours": [
+      "05:30/06:30"
+    ],
+    "license": {
+      "catering_service_license_image": "1613129f6be3558.jpg",
+      "business_license_image": "1613129ee4a3557.jpg"
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "data:image/jpeg;base64,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",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 5,
+    "distance": "42.1公里",
+    "order_lead_time": "1小时47分钟",
+    "description": "13131",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "Mandy专送"
+    },
+    "activities": [
+      {
+        "icon_name": "减",
+        "name": "满减优惠",
+        "description": "满30减5，满60减8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5a6acb3e1d632b05464dc4a1"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "618",
+    "address": "北京市昌平区霍营",
+    "id": 501,
+    "latitude": 40.08277,
+    "longitude": 116.36739,
+    "location": [
+      116.36739,
+      40.08277
+    ],
+    "phone": "18232060789",
+    "category": "快餐便当/简餐",
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保",
+        "_id": "5a6acd3f1d632b05464dc541"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达",
+        "_id": "5a6acd3f1d632b05464dc540"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "_id": "5a6acd3f1d632b05464dc53f"
+      }
+    ],
+    "status": 1,
+    "recent_order_num": 414,
+    "rating_count": 96,
+    "rating": 4.1,
+    "promotion_info": "618插件网",
+    "piecewise_agent_fee": {
+      "tips": "配送费约¥5"
+    },
+    "opening_hours": [
+      "06:00/11:30"
+    ],
+    "license": {
+      "catering_service_license_image": "161313145043561.jpg",
+      "business_license_image": "16131312b733560.jpg"
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "http://img2.imgtn.bdimg.com/it/u=1417934655,3850219143&fm=26&gp=0.jpg",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 5,
+    "distance": "2.6公里",
+    "order_lead_time": "26分钟",
+    "description": "618",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "Mandy专送"
+    },
+    "activities": [
+      {
+        "icon_name": "减",
+        "name": "满减优惠",
+        "description": "满30减5，满60减8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5a6acd3f1d632b05464dc543"
+      },
+      {
+        "icon_name": "减",
+        "name": "满减优惠",
+        "description": "1236655",
+        "icon_color": "f07373",
+        "id": 2,
+        "_id": "5a6acd3f1d632b05464dc542"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "618618",
+    "address": "上海市静安区襄阳北路17号3层",
+    "id": 502,
+    "latitude": 31.22003,
+    "longitude": 121.45476,
+    "location": [
+      121.45476,
+      31.22003
+    ],
+    "phone": "618618",
+    "category": "果蔬生鲜/水果",
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保",
+        "_id": "5a6adb5a1d632b05464dc62a"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达",
+        "_id": "5a6adb5a1d632b05464dc629"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "_id": "5a6adb5a1d632b05464dc628"
+      }
+    ],
+    "status": 0,
+    "recent_order_num": 957,
+    "rating_count": 527,
+    "rating": 4.7,
+    "promotion_info": "618618",
+    "piecewise_agent_fee": {
+      "tips": "配送费约¥5"
+    },
+    "opening_hours": [
+      "05:45/06:15"
+    ],
+    "license": {
+      "catering_service_license_image": "1613168204c3572.jpg",
+      "business_license_image": "161316806d63571.jpg"
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "http://img3.imgtn.bdimg.com/it/u=139008951,7960932&fm=26&gp=0.jpg",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 5,
+    "distance": "1195.5公里",
+    "order_lead_time": "21小时4分钟",
+    "description": "618618",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "Mandy专送"
+    },
+    "activities": [
+      {
+        "icon_name": "减",
+        "name": "满减优惠",
+        "description": "满30减5，满60减8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5a6adb5a1d632b05464dc62b"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "xx",
+    "address": "北京市海淀区颐和园路5号",
+    "id": 503,
+    "latitude": 39.99287,
+    "longitude": 116.31025,
+    "location": [
+      116.31025,
+      39.99287
+    ],
+    "phone": "11111444",
+    "category": "快餐便当/简餐",
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保",
+        "_id": "5a6ae5d41d632b05464dc6a1"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达",
+        "_id": "5a6ae5d41d632b05464dc6a0"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "_id": "5a6ae5d41d632b05464dc69f"
+      }
+    ],
+    "status": 1,
+    "recent_order_num": 626,
+    "rating_count": 707,
+    "rating": 4,
+    "promotion_info": "111",
+    "piecewise_agent_fee": {
+      "tips": "配送费约¥5"
+    },
+    "opening_hours": [
+      "05:30/05:45"
+    ],
+    "license": {
+      "catering_service_license_image": "",
+      "business_license_image": ""
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "http://img4.imgtn.bdimg.com/it/u=607745733,2963223535&fm=26&gp=0.jpg",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 5,
+    "distance": "16.7公里",
+    "order_lead_time": "55分钟",
+    "description": "1231",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "Mandy专送"
+    },
+    "activities": [
+      {
+        "icon_name": "减",
+        "name": "满减优惠",
+        "description": "满30减5，满60减8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5a6ae5d41d632b05464dc6a2"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "3",
+    "address": "四川省成都市郫都区郫都区郫都区",
+    "id": 506,
+    "latitude": 30.73324,
+    "longitude": 103.98682,
+    "location": [
+      103.98682,
+      30.73324
+    ],
+    "phone": "434343434",
+    "category": "特色菜系/江浙菜",
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保",
+        "_id": "5a6c3cee1d632b05464dcabb"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达",
+        "_id": "5a6c3cee1d632b05464dcaba"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "_id": "5a6c3cee1d632b05464dcab9"
+      }
+    ],
+    "status": 1,
+    "recent_order_num": 105,
+    "rating_count": 440,
+    "rating": 4.4,
+    "promotion_info": "3434",
+    "piecewise_agent_fee": {
+      "tips": "配送费约¥4"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "license": {
+      "catering_service_license_image": "16136ce209f3645.jpg",
+      "business_license_image": "16136cdffad3644.jpg"
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "http://img5.imgtn.bdimg.com/it/u=2557941754,291179557&fm=26&gp=0.jpg",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 4,
+    "distance": "1790.1公里",
+    "order_lead_time": "27小时2分钟",
+    "description": "3434",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "Mandy专送"
+    },
+    "activities": [
+      {
+        "icon_name": "减",
+        "name": "满减优惠",
+        "description": "满30减5，满60减8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5a6c3cee1d632b05464dcabc"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "青岛市金拱门餐饮有限公司",
+    "address": "山东省青岛市崂山区以东40公里处",
+    "id": 508,
+    "latitude": 36.14213,
+    "longitude": 120.60168,
+    "location": [
+      120.60168,
+      36.14213
+    ],
+    "phone": "12580",
+    "category": "异国料理",
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保",
+        "_id": "5a6d41041d632b05464dcbf7"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达",
+        "_id": "5a6d41041d632b05464dcbf6"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "_id": "5a6d41041d632b05464dcbf5"
+      }
+    ],
+    "status": 1,
+    "recent_order_num": 596,
+    "rating_count": 370,
+    "rating": 4.6,
+    "promotion_info": "吃鸡",
+    "piecewise_agent_fee": {
+      "tips": "配送费约¥5"
+    },
+    "opening_hours": [
+      "11:30/15:45"
+    ],
+    "license": {
+      "catering_service_license_image": "1613ac5ecbb3662.jpg",
+      "business_license_image": "1613ac5d99f3661.jpg"
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "http://img2.imgtn.bdimg.com/it/u=629637651,3227753387&fm=26&gp=0.jpg",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 5,
+    "distance": "662公里",
+    "order_lead_time": "11小时23分钟",
+    "description": "请拨打我们的电话",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "Mandy专送"
+    },
+    "activities": [
+      {
+        "icon_name": "特",
+        "name": "优惠大酬宾",
+        "description": "傻逼的神臂斗士八度空间阿萨德",
+        "icon_color": "EDC123",
+        "id": 1,
+        "_id": "5a6d41041d632b05464dcbf8"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "广州大学城",
+    "address": "广东省广州市番禺区新造镇小谷围",
+    "id": 510,
+    "latitude": 23.05013,
+    "longitude": 113.38986,
+    "location": [
+      113.38986,
+      23.05013
+    ],
+    "phone": "q110",
+    "category": "快餐便当/米粉面馆",
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保",
+        "_id": "5a6dbe431d632b05464dccaa"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达",
+        "_id": "5a6dbe431d632b05464dcca9"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "_id": "5a6dbe431d632b05464dcca8"
+      }
+    ],
+    "status": 0,
+    "recent_order_num": 965,
+    "rating_count": 894,
+    "rating": 4.6,
+    "promotion_info": "黄焖鸡米饭",
+    "piecewise_agent_fee": {
+      "tips": "配送费约¥5"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "license": {
+      "catering_service_license_image": "1613caf47de3679.png",
+      "business_license_image": "1613caf430f3678.png"
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "http://img2.imgtn.bdimg.com/it/u=4014752796,2639250726&fm=26&gp=0.jpg",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 5,
+    "distance": "2135.3公里",
+    "order_lead_time": "32小时17分钟",
+    "description": "黄焖鸡ww",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "Mandy专送"
+    },
+    "activities": [
+      {
+        "icon_name": "减",
+        "name": "满减优惠",
+        "description": "满30减5，满60减8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5a6dbe431d632b05464dccab"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "广州大学城黄焖鸡",
+    "address": "广东省广州市番禺区大学城外环西路230号",
+    "id": 511,
+    "latitude": 23.04073,
+    "longitude": 113.37072,
+    "location": [
+      113.37072,
+      23.04073
+    ],
+    "phone": "21107888797",
+    "category": "快餐便当/简餐",
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保",
+        "_id": "5a6dbe8b1d632b05464dccd3"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达",
+        "_id": "5a6dbe8b1d632b05464dccd2"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "_id": "5a6dbe8b1d632b05464dccd1"
+      }
+    ],
+    "status": 1,
+    "recent_order_num": 269,
+    "rating_count": 177,
+    "rating": 4.8,
+    "promotion_info": "好吃的黄焖鸡",
+    "piecewise_agent_fee": {
+      "tips": "配送费约¥5"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "license": {
+      "catering_service_license_image": "1613cb057073682.png",
+      "business_license_image": "1613cb054b43681.png"
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "http://img0.imgtn.bdimg.com/it/u=2467361933,2837097077&fm=26&gp=0.jpg",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 5,
+    "distance": "2136.6公里",
+    "order_lead_time": "32小时21分钟",
+    "description": "黄焖鸡",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "Mandy专送"
+    },
+    "activities": [
+      {
+        "icon_name": "减",
+        "name": "满减优惠",
+        "description": "满30减5，满60减8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5a6dbe8b1d632b05464dccd4"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "蔡林记",
+    "address": "湖北省武汉市东西湖区 ",
+    "id": 512,
+    "latitude": 30.64141,
+    "longitude": 114.04684,
+    "location": [
+      114.04684,
+      30.64141
+    ],
+    "phone": "15527091536",
+    "category": "快餐便当/盖浇饭",
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保",
+        "_id": "5a6e87c01d632b05464dce5e"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达",
+        "_id": "5a6e87c01d632b05464dce5d"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "_id": "5a6e87c01d632b05464dce5c"
+      }
+    ],
+    "status": 1,
+    "recent_order_num": 236,
+    "rating_count": 370,
+    "rating": 4,
+    "promotion_info": "111",
+    "piecewise_agent_fee": {
+      "tips": "配送费约¥5"
+    },
+    "opening_hours": [
+      "05:45/11:15"
+    ],
+    "license": {
+      "catering_service_license_image": "",
+      "business_license_image": ""
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "1613fc23d793695.png",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 5,
+    "distance": "1162.6公里",
+    "order_lead_time": "19小时1分钟",
+    "description": "111",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "Mandy专送"
+    },
+    "activities": [],
+    "__v": 0
+  },
+  {
+    "name": "11",
+    "address": "山东省青岛市崂山区第十一中学",
+    "id": 514,
+    "latitude": 36.22215,
+    "longitude": 120.5297,
+    "location": [
+      120.5297,
+      36.22215
+    ],
+    "phone": "11111",
+    "category": "快餐便当/简餐",
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保",
+        "_id": "5a6e8ca81d632b05464dcea4"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达",
+        "_id": "5a6e8ca81d632b05464dcea3"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "_id": "5a6e8ca81d632b05464dcea2"
+      }
+    ],
+    "status": 0,
+    "recent_order_num": 425,
+    "rating_count": 891,
+    "rating": 4.4,
+    "promotion_info": "111",
+    "piecewise_agent_fee": {
+      "tips": "配送费约¥5"
+    },
+    "opening_hours": [
+      "8:30/20:30"
+    ],
+    "license": {
+      "catering_service_license_image": "1613fd562343700.jpg",
+      "business_license_image": "1613fd56eba3699.png"
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "1613fd55ba03698.png",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 5,
+    "distance": "645.7公里",
+    "order_lead_time": "11小时2分钟",
+    "description": "111",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "Mandy专送"
+    },
+    "activities": [
+      {
+        "icon_name": "减",
+        "name": "满减优惠",
+        "description": "满30减5，满60减8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5a6e8ca81d632b05464dcea6"
+      },
+      {
+        "icon_name": "新",
+        "name": "新用户立减",
+        "description": "111",
+        "icon_color": "70bc46",
+        "id": 2,
+        "_id": "5a6e8ca81d632b05464dcea5"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "qqq",
+    "address": "湖北省武汉市黄陂区天河国际机场盘龙城巨龙大道196号",
+    "id": 516,
+    "latitude": 30.71401,
+    "longitude": 114.24966,
+    "location": [
+      114.24966,
+      30.71401
+    ],
+    "phone": "11111",
+    "category": "异国料理/披萨意面",
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保",
+        "_id": "5a6e8f561d632b05464dcedd"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达",
+        "_id": "5a6e8f561d632b05464dcedc"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "_id": "5a6e8f561d632b05464dcedb"
+      }
+    ],
+    "status": 0,
+    "recent_order_num": 742,
+    "rating_count": 458,
+    "rating": 4.1,
+    "promotion_info": "欢迎光临，用餐高峰请提前下单，谢谢",
+    "piecewise_agent_fee": {
+      "tips": "配送费约¥12"
+    },
+    "opening_hours": [
+      "06:30/06:45"
+    ],
+    "license": {
+      "catering_service_license_image": "",
+      "business_license_image": ""
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "1613fdfe1773703.png",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 12,
+    "distance": "1143公里",
+    "order_lead_time": "18小时55分钟",
+    "description": "111",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "Mandy专送"
+    },
+    "activities": [
+      {
+        "icon_name": "减",
+        "name": "满减优惠",
+        "description": "满30减5，满60减8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5a6e8f561d632b05464dcede"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "name": "天下食谱",
+    "address": "上海市黄浦区巨鹿路304-1",
+    "id": 518,
+    "latitude": 31.22299,
+    "longitude": 121.45999,
+    "location": [
+      121.45999,
+      31.22299
+    ],
+    "phone": "666",
+    "category": "快餐便当/简餐",
+    "supports": [
+      {
+        "description": "已加入“外卖保”计划，食品安全有保障",
+        "icon_color": "999999",
+        "icon_name": "保",
+        "id": 7,
+        "name": "外卖保",
+        "_id": "5a6e99741d632b05464dcf38"
+      },
+      {
+        "description": "准时必达，超时秒赔",
+        "icon_color": "57A9FF",
+        "icon_name": "准",
+        "id": 9,
+        "name": "准时达",
+        "_id": "5a6e99741d632b05464dcf37"
+      },
+      {
+        "description": "该商家支持开发票，请在下单时填写好发票抬头",
+        "icon_color": "999999",
+        "icon_name": "票",
+        "id": 4,
+        "name": "开发票",
+        "_id": "5a6e99741d632b05464dcf36"
+      }
+    ],
+    "status": 1,
+    "recent_order_num": 867,
+    "rating_count": 916,
+    "rating": 4.7,
+    "promotion_info": "sdafsdf",
+    "piecewise_agent_fee": {
+      "tips": "配送费约¥5"
+    },
+    "opening_hours": [
+      "06:30/22:45"
+    ],
+    "license": {
+      "catering_service_license_image": "161400760ee3715.jpg",
+      "business_license_image": "16140074a273714.jpg"
+    },
+    "is_new": true,
+    "is_premium": true,
+    "image_path": "1614007170f3713.jpg",
+    "identification": {
+      "registered_number": "",
+      "registered_address": "",
+      "operation_period": "",
+      "licenses_scope": "",
+      "licenses_number": "",
+      "licenses_date": "",
+      "legal_person": "",
+      "identificate_date": null,
+      "identificate_agency": "",
+      "company_name": ""
+    },
+    "float_minimum_order_amount": 20,
+    "float_delivery_fee": 5,
+    "distance": "1194.9公里",
+    "order_lead_time": "21小时1分钟",
+    "description": "asdfsda",
+    "delivery_mode": {
+      "color": "57A9FF",
+      "id": 1,
+      "is_solid": true,
+      "text": "Mandy专送"
+    },
+    "activities": [
+      {
+        "icon_name": "减",
+        "name": "满减优惠",
+        "description": "满30减5，满60减8",
+        "icon_color": "f07373",
+        "id": 1,
+        "_id": "5a6e99741d632b05464dcf39"
+      }
+    ],
+    "__v": 0
+  }
+]
